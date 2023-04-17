@@ -1,6 +1,6 @@
 # main file
 # -----------
-from Lib import Library
+from libraryClass import Library
 
 sist = Library(['C', 'C++', 'Python', 'Java', 'JavaScript'])
 while True:
