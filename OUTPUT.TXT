@@ -1,0 +1,172 @@
+OUTPUT :
+
+
+   Welcome to Sist Library     
++----------------------------+ 
+| 1. Display all Books       | 
+| 2. Display Available Books | 
+| 3. Lent the Book           | 
+| 4. Return the book         | 
+| 5. Exit                    | 
++----------------------------+ 
+
+Enter Your Choice : 1
+
+All Books        
+-----------------
+C
+C++
+Python
+Java
+JavaScript
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 2
+
+Available Books
+-----------------
+C
+C++
+Python
+Java
+JavaScript
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 3
+
+Please Enter the Following Details
+Enter Your Name : Sasi
+Enter The Book Name : Python
+====================================
+Welcome Sasi
+Take the Python book. Please Return in one month.
+Thank You ....
+=====================================
+
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 2
+
+Available Books
+-----------------
+C
+C++
+Java
+JavaScript
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 3
+
+Please Enter the Following Details
+Enter Your Name : Sathish
+Enter The Book Name : Python
+
+The Python book is already taken by Sasi
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 3
+
+Please Enter the Following Details
+Enter Your Name : Sathish
+Enter The Book Name : Java
+====================================
+Welcome Sathish
+Take the Java book. Please Return in one month.
+Thank You ....
+=====================================
+
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 4
+
+Please Enter the Following Details
+Enter the Book Name : Python
+Thank you Sasi. The Python book is returned
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 2
+
+Available Books
+-----------------
+C
+C++
+JavaScript
+Python
+-----------------------------------------------------------------------------------  
+
+   Welcome to Sist Library
++----------------------------+
+| 1. Display all Books       |
+| 2. Display Available Books |
+| 3. Lent the Book           |
+| 4. Return the book         |
+| 5. Exit                    |
++----------------------------+
+
+Enter Your Choice : 5
+
+Thank you ...
+You are exited
